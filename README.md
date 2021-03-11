@@ -23,6 +23,20 @@ For the presentation I focused on the positive correlation between increasing th
 sure to use different color palettes for each quality variable to make sure it
 is clear that they're different between plots.
 
+# Methods Used
+- Feature engineering
+- Data Visualization:
+   Univariate Exploration
+   Bivariate Exploration
+   Multivariate Exploration
+- etc.
+Technologies
+- Python
+- Pandas, , Numpy
+- Matplotlib, Seaborn
+- jupyter
+- etc.
+
 Recources : 
 https://matplotlib.org/3.2.1/api/_as_gen/matplotlib.pyplot.subplot.html
 https://blog.datawrapper.de/beautifulcolors/#:~:text=Use%20warm%20colors%20&%20blue%20There%E2%80%99s%20a%20complementary,loved%20by%20data%20visualization%20designers:%20yellow/orange/red%20and%20blue
