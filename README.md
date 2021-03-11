@@ -26,9 +26,9 @@ is clear that they're different between plots.
 # Methods Used
 - Feature engineering
 - Data Visualization:
-   Univariate Exploration
-   Bivariate Exploration
-   Multivariate Exploration
+   - Univariate Exploration
+   - Bivariate Exploration
+   - Multivariate Exploration
 - etc.
 Technologies
 - Python
