@@ -30,7 +30,7 @@ is clear that they're different between plots.
    - Bivariate Exploration
    - Multivariate Exploration
 - etc.
-Technologies
+# Technologies
 - Python
 - Pandas, , Numpy
 - Matplotlib, Seaborn
